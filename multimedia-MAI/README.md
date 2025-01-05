@@ -1,8 +1,6 @@
 Multimedia
 
-AI labs
-
-Classification & Regression
+AI labs:  Classification & Regression
 
 ~~ в процессе ~~
 
