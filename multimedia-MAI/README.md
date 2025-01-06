@@ -2,6 +2,8 @@ Multimedia
 
 AI labs:  Classification & Regression
 
+Датасет - https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
+
 ~~ в процессе ~~
 
 к ДЕДЛАЙНУ 6.01 18:00 (инфа от старосты потока А. Шумиловой)
