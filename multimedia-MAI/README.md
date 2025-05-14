@@ -21,9 +21,6 @@ __Исследования:__
 7. Проведение исследований с моделями семантической сегментации;
 8. Проведение исследований с моделями обнаружения и распознавания объектов.
 
-__Результаты исследований__ - см. фото results2.jpg
-
-
 ## 1 semester. Classification & Regression
 
 __Датасет__ - https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
