@@ -13,6 +13,7 @@ __Лабораторная № 8:__
 
 __Выбранные метрики качества:__
 Для задачи бинарной семантической сегментации: mIoU (mean Intersection over Union), Dice/F1-score, Pixel Accuracy.
+
 Для задачи object detection: mAP@0.5, mAP@0.5:0.95, Precision (mean), Recall (mean), IoU.
 
 __Исследования:__
